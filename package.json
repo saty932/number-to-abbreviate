@@ -1,6 +1,6 @@
 {
   "name": "number-to-abbreviate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "number to abbereviate conversion",
   "main": "index.js",
   "repository": {
