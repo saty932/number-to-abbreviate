@@ -1,11 +1,11 @@
 # number-to-abbreviate
 
-##installation
+## installation
 
 npm i number-to-abbreviate
 
 
-##usage
+## usage
 
 var abberviateNumber =require('number-to-abbreviate');
 
